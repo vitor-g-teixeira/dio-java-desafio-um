@@ -1,2 +1,2 @@
 # java-dio-cursos
-Estudos que realizei pelo bootcamp de Java fornecido pela Dio em pareceria com a Claro.
+<p>Primeiro desafio prático de Java proposto no BootCamp disponibilizado na DIO com patrocinío da Claro</p>
